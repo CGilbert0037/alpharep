@@ -1,0 +1,53 @@
+body {
+	font-family: 'Questrial', sans-serif;
+	background-color: #FFFFFF;
+}
+
+a {
+  color: #4FB69F;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.750em;
+  letter-spacing: -1.5px;
+}
+
+ul.nav {
+  margin: 120px 0 0 0;
+  list-style: none;
+  float: right;
+}
+
+ul.nav li {
+  float: left;
+  margin-right: 40px;
+}
+
+ul.nav li a {
+  color: #000000;
+}
+
+#copyright {
+  font-family: 'Questrial', sans-serif;
+  border-top: 8px solid #2A0400;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
